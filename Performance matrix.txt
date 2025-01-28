@@ -1,0 +1,5 @@
+Performave matrix of test dataset:
+Accuracy: 92.82%
+Precision: 93.18%
+Recall: 92.42%
+F1 Score: 92.79%
